@@ -1,0 +1,49 @@
+main {
+    width: 400px;
+}
+main h1 {
+    font-style: italic;
+}
+img.ArticleImage {
+    float: right;
+    width: 150px;
+}
+p.Article {
+    text-align: left;
+}
+table.ArticleTable {
+    width: 200px;
+    border-style: ridge;
+}
+td.ArticleTable 
+{
+    border-style: ridge;
+}
+form.SchoolForm input
+{
+    margin-bottom: 6px;
+}
+input.Submit {
+    width: 100px;
+}
+table.Calculator {
+    background-color: black;    
+}
+
+table.Calculator td  {
+    background-color: silver;
+    border-style: ridge;
+    border-color: lightslategray;
+    text-align: center;
+}
+table.Calculator input[type=button] {
+    width: 100%;
+    font-family: Courier New, Courier, monospace;
+    display: inline-block;
+}
+table.Calculator input[type=text] {
+    width: 100%;
+    height: 100%;
+    text-align: right;
+    font-family: Courier New, Courier, monospace;
+}
